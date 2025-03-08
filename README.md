@@ -50,6 +50,9 @@ NLTK POS Tagger: Uses pre-trained models for tagging.
 
 ![image](https://github.com/user-attachments/assets/54177971-5b23-4537-90ac-7529f351a087)
 
+![Screenshot 2025-03-09 030531](https://github.com/user-attachments/assets/a168133f-6ead-441f-b1be-3af53404978a)
+
+
 
 
 

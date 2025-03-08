@@ -44,6 +44,15 @@ NLTK POS Tagger: Uses pre-trained models for tagging.
 🔹 Improving text autocomplete & suggestions
 🔹 Enhancing NLP-based applications like chatbots & grammar checkers
 
+![image](https://github.com/user-attachments/assets/85862cdc-9504-47de-ad7d-514623bdab2d)
+
+![image](https://github.com/user-attachments/assets/b003a7b2-002d-427f-af0f-8a50720c661d)
+
+![image](https://github.com/user-attachments/assets/54177971-5b23-4537-90ac-7529f351a087)
+
+
+
+
 🤝 Contributing
 Pull requests are welcome! If you find any issues, please open an issue or submit a PR.
 

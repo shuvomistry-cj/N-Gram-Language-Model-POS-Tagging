@@ -16,7 +16,7 @@ This project is a **Natural Language Processing (NLP) application** built using 
 ## 🔧 Installation & Setup  
 1️⃣ Clone the repository:  
    ```bash
-   git clone https://github.com/shuvomistry-cj/nlp-lab-assignment.git
+   git clone https://github.com/shuvomistry-cj/N-Gram-Language-Model-POS-Tagging.git
    cd nlp-lab-assignment
 
 2️⃣ Install dependencies:

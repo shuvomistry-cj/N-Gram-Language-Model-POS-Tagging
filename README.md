@@ -9,7 +9,9 @@ This project is a **Natural Language Processing (NLP) application** built using 
 ✅ User input-based **N-Gram Language Model** (Bigrams/Trigrams)  
 ✅ **Perplexity Calculation** to measure model performance  
 ✅ **POS Tagging** using Rule-Based, Stochastic, and NLTK methods  
-✅ Streamlit-based **interactive interface**  
+✅ Streamlit-based **interactive interface** 
+
+![Image](https://github.com/user-attachments/assets/f17345de-6a99-456a-bb29-36c3baf02b51)
 
 ## 🔧 Installation & Setup  
 1️⃣ Clone the repository:  
@@ -44,7 +46,7 @@ NLTK POS Tagger: Uses pre-trained models for tagging.
 🔹 Improving text autocomplete & suggestions
 🔹 Enhancing NLP-based applications like chatbots & grammar checkers
 
-![Image](https://github.com/user-attachments/assets/f17345de-6a99-456a-bb29-36c3baf02b51)
+
 
 
 
